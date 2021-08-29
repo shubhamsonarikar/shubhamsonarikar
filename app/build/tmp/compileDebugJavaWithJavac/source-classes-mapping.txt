@@ -1,0 +1,30 @@
+com/parent/Shubham/models/Article.java
+ com.parent.Shubham.models.Article
+com/parent/Shubham/Adapter.java
+ com.parent.Shubham.Adapter
+ com.parent.Shubham.Adapter$1
+ com.parent.Shubham.Adapter$MyViewHolder
+ com.parent.Shubham.Adapter$OnItemClickListener
+com/parent/Shubham/api/ApiInterface.java
+ com.parent.Shubham.api.ApiInterface
+com/parent/Shubham/models/Source.java
+ com.parent.Shubham.models.Source
+com/parent/popularnews/BuildConfig.java
+ com.parent.popularnews.BuildConfig
+com/parent/Shubham/api/ApiClient.java
+ com.parent.Shubham.api.ApiClient
+ com.parent.Shubham.api.ApiClient$1
+ com.parent.Shubham.api.ApiClient$2
+com/parent/Shubham/models/News.java
+ com.parent.Shubham.models.News
+com/parent/Shubham/Utils.java
+ com.parent.Shubham.Utils
+com/parent/Shubham/NewsDetailActivity.java
+ com.parent.Shubham.NewsDetailActivity
+com/parent/Shubham/MainActivity.java
+ com.parent.Shubham.MainActivity
+ com.parent.Shubham.MainActivity$1
+ com.parent.Shubham.MainActivity$2
+ com.parent.Shubham.MainActivity$3
+ com.parent.Shubham.MainActivity$4
+ com.parent.Shubham.MainActivity$5
